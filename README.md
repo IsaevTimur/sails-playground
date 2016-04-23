@@ -1,1 +1,5 @@
-https://github.com/balderdashy/waterline-docs
+npm install
+
+mongoDB service start
+
+sails lift
